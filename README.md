@@ -1,4 +1,5 @@
 # E-Commerce Business Intelligence Dashboard
+![Banner](screenshots/banner.png)
 
 ## Project Overview
 
