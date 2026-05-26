@@ -215,4 +215,4 @@ This project strengthened practical skills in:
 
 # Author
 
-Vajraa
+Vajra Kalekar
