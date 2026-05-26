@@ -174,7 +174,7 @@ Designed interactive business dashboards focused on:
 
 ## Operations & Delivery Performance
 
-![Operations & Delivery](Screenshots/Operations_DeliveryPerformance.png)
+![Operations & Delivery](Screenshots/Operations_Delivery_Performance.png)
 
 ---
 
