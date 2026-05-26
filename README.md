@@ -162,25 +162,25 @@ Designed interactive business dashboards focused on:
 
 ## Executive Overview
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](Screenshots/Executive_Overview.png)
 
 ---
 
 ## Customer Analytics
 
-![Customer Analytics](screenshots/customer_analytics.png)
+![Customer Analytics](Screenshots/Customer_Analytics.png)
 
 ---
 
 ## Operations & Delivery Performance
 
-![Operations & Delivery](screenshots/operations_delivery.png)
+![Operations & Delivery](Screenshots/Operations_DeliveryPerformance.png)
 
 ---
 
 ## Strategic Business Insights
 
-![Strategic Insights](screenshots/strategic_insights.png)
+![Strategic Insights](Screenshots/Strategic_Insights.png)
 
 ---
 
